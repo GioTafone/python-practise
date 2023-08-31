@@ -1,3 +1,3 @@
 # **Hello!**
-### This is a repository of simple exercise for Python.
-Each file .py is a small independent program.
+### This repository contains few simple Python practise exercises.
+Each file .py is a small independent program :)
